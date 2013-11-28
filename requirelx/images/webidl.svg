@@ -11,10 +11,10 @@
             <tspan x="13" y="109">ECMAScript</tspan>
         </text>
         <text id="WebIDL" sketch:type="MSTextLayer" font-family="Arial" font-size="29" font-weight="normal" fill="#000000">
-            <tspan x="205" y="109">WebIDL</tspan>
+            <tspan x="213" y="109">WebIDL</tspan>
         </text>
-        <text id="C++" sketch:type="MSTextLayer" font-family="Arial" font-size="29" font-weight="normal" fill="#000000">
-            <tspan x="396" y="109">C++</tspan>
+        <text id="C++/Rust/..." sketch:type="MSTextLayer" font-family="Arial" font-size="29" font-weight="normal" fill="#000000">
+            <tspan x="355" y="109">C++/Rust/...</tspan>
         </text>
         <path d="M422.5,156 L114.5,156" id="Line" stroke="#FBA617" stroke-width="10" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
         <path id="Line-decoration-1" d="M114.5,156 C118.28,157.05 121.52,157.95 125.3,159 C125.3,156.9 125.3,155.1 125.3,153 C121.52,154.05 118.28,154.95 114.5,156 C114.5,156 114.5,156 114.5,156 Z" stroke="#FBA617" stroke-width="10" stroke-linecap="square"></path>
