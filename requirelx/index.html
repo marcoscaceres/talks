@@ -80,7 +80,7 @@
 
 				<section>
 					<h2>Brief history</h2>
-			  </section>
+			    </section>
 
 				<section>
 					<h2>How is the platform layered (API wise)</h2>
@@ -107,6 +107,7 @@
 	 					<li>Dictionaries</li>
 						<li>Enumeration</li>
 						<li>Constants (not really used)</li>
+						<li>Extended attributes (ES specific - MapClass, etc.)</li>
 					</ul>
 				</section>
 
@@ -212,10 +213,20 @@ return WebIDL.Boolean;</code></pre>
 			</section>
 
 			<section>
+				<h2>Bonus goodies</h2>
+				<ul>
+					<li>Automagic bindings</li>
+					<li>Automagic testing</li>
+				</ul>
+			</section>
+
+			<section>
 				<h2>Issues - edge cases</h2>
 				<ul>
+					<li>Can't extend "host" objects</li>
+					<li>Very javaish :(</li>
 					<li>New ES types/constructs</li>
-					<li>Breaks promises</li>
+					<li>Breaks promises... but fixing that.</li>
 				</ul>
 			</section>
 
